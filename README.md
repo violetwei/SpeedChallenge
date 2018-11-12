@@ -7,6 +7,10 @@ There are three challenge mode you can choose: easy, medium and hard.
 
 You can check your previous challenge score in the Score Board.
 
+![jietu20181112-113109](https://user-images.githubusercontent.com/31902939/48360997-7b0c6100-e66e-11e8-9303-2171b56e4c24.jpg)
+
+There will be a congrats window pop up once you've breaked the new record score.
+
 For more info regrading on the challenge, please click the Instruction button.
 
 Preview of this interesting 'speed' game:
