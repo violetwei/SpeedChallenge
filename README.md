@@ -11,7 +11,7 @@ You can check your previous challenge score in the Score Board.
 
 There will be a congrats window pop up once you've breaked the new record score.
 
-![jietu20181112-112720](https://user-images.githubusercontent.com/31902939/48361108-c888ce00-e66e-11e8-90cd-8118e658953d.jpg)
+![jietu20181112-112720](https://user-images.githubusercontent.com/31902939/48361196-00901100-e66f-11e8-8403-893528d48391.jpg)
 
 For more info regrading on the challenge, please click the Instruction button.
 
