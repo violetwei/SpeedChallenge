@@ -1,4 +1,4 @@
-# SpeedChallenge.io
+# SpeedChallenge
 This is a Web based game which is a typing speed challenge written in JavaScript and using JavaScript JQuery library.
 
 Click here to start the challenge:https://violetwei.github.io/SpeedChallenge/
